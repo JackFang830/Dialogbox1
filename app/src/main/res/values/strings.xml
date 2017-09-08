@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dialog box</string>
+    <string name="b0">Tips</string>
+    <string name="buttonTest">Log in</string>
+
+    <string name="b1">login</string>
+    <string name="b2">cancel</string>
+
+    <string name="b3">Cancel</string>
+
+    <string name="editTextUserId">User ID</string>
+    <string name="editTextPwd">Password</string>
+</resources>
